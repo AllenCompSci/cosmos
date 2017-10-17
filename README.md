@@ -49,3 +49,4 @@ When you contribute, your name with a link (if available) is added to our [contr
 
 We believe in freedom and improvement. [GNU General Public License v3.0](https://github.com/AdiChat/cosmos/blob/master/LICENSE)
 
+Great work on your project dude, have fun
